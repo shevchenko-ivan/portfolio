@@ -1,3 +1,5 @@
-*{
+.top{
+  padding: 22px;
   background: #000;
+  height: 20px;
 }
